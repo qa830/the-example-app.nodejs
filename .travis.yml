@@ -1,4 +1,5 @@
 language: node
+virt: lxd
 
 before_install:
 - npm i -g npm
